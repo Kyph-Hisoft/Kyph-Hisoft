@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kyph-Hisoft
-- 👀 I’m interested in commic
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in comics
 - 📫 How to reach me : kyph@hisoft.com.vn
 
 <!---
